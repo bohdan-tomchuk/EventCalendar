@@ -1,0 +1,15 @@
+{
+  "name": "bohdan-tomchuk/php-mvc",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Bohdan Tomchuk",
+      "email": "bogdan.tomchuck@gmail.com"
+    }
+  ],
+  "require": {}
+}
